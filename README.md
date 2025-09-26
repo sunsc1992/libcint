@@ -1,0 +1,2 @@
+# libcint
+copylibcint
